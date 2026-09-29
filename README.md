@@ -1,5 +1,10 @@
 # MidgardDungeon
 
+[![Build](https://github.com/EduardoPSoares/MidgardDungeon/actions/workflows/build.yml/badge.svg)](https://github.com/EduardoPSoares/MidgardDungeon/actions/workflows/build.yml)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-1.21-2F80ED)
+![License](https://img.shields.io/github/license/EduardoPSoares/MidgardDungeon)
+
 Sistema de dungeons instanciadas para Paper, em Kotlin, integrado ao [Typewriter](https://typewritermc.com/)
 para montar dungeons, eventos e diálogos sem código.
 
